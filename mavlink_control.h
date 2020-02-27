@@ -72,7 +72,7 @@ using namespace std;
 
 
 
-#include "/home/jarv1s/pixhawk_sensor_data/mavlink/include/mavlink/v2.0/common/mavlink.h"
+#include "./mavlink/include/mavlink/v2.0/common/mavlink.h"
 
 #include "autopilot_interface.h"
 #include "serial_port.h"
